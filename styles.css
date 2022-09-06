@@ -50,12 +50,12 @@
         width: 400px;
         }
         .hero .right {
-        color: var(--white);
+        color: var(--bgDark);
         margin-top: -7rem;
         }
         .hero .right h6{
         font-size: 1.6rem;
-        color: var(--primary);
+        color: var(--bgDark);
         margin-bottom: 0.5rem;
         }
         .hero .right h1{
